@@ -1,12 +1,12 @@
 # Lab2_motorino
 Esempio di  classe Motorino con i seguenti attibuti:
 
-    colore: una stringa indicante il colore del motorino,
-    velocità: un numero con la virgola indicante la velocità in Km/h che possiede il motorino,
-    tipo: una stringa indicante la marca e il modello del motorini esempio: (Piaggio Scarabeo), 
-    antifurto: un boolean che indica se è stato inserito l’antifurto (valore iniziale FALSE).
+   **colore**:     una stringa indicante il colore del motorino,
+   **velocità**:   un numero con la virgola indicante la velocità in Km/h che possiede il motorino,
+   **tipo**:       una stringa indicante la marca e il modello del motorini esempio: (Piaggio Scarabeo), 
+   **antifurto**:  un boolean che indica se è stato inserito l’antifurto (valore iniziale FALSE).
 
-Caratterisctiche:
+### Caratterisctiche:
 
 •	Il costruttore ha come parametri una stringa per il colore, una stringa per il tipo, un numero con la virgola per la velocità ed assegna opportunamente i valori dei parametri agli attributi.
 
